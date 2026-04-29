@@ -73,3 +73,5 @@ For more information, see the following topics:
 - [Create and assign advanced rule structures](/dynamics365/finance/general-ledger/tasks/create-assign-advanced-rule-structures)
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
+
+If you are looking for “Statistical account" or "Dimensions" - use Cost accounting statistical dimensions / statistical measures, not normal GL accounts. check here  https://learn.microsoft.com/en-us/dynamics365/finance/cost-accounting/statistical-measure-provider-template
